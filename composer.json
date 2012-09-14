@@ -1,0 +1,21 @@
+{
+    "name": "html-emoji/html-emoji",
+    "type": "library",
+    "description": "emoji convert library",
+    "keywords": [],
+    "homepage": "https://github.com/takekko/HTML_Emoji",
+    "version": "0.8.3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "takekko",
+            "email": "takekko at gmail dot com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": { "HTML_": "" }
+    }
+}
